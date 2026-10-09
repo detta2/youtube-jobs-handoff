@@ -1,1 +1,96 @@
-IyBQYW5kdWFuIEZ1bGwgU2V0dXAgWW91VHViZSBKb2JzIGRpIG11c2UxCgo+IFVudHVrIGRpYmFjYSBtdXNlMSBkYXJpIGF3YWwgc2FtcGFpIGFraGlyIHNlYmVsdW0gbXVsYWkga2VyamEuCgojIyAwLiBHYW1iYXJhbgoKS2FtdSBtZW5nYW1iaWwgYWxpaCAxNyBjcm9uIGpvYiBwaXBlbGluZSBZb3VUdWJlIGRhcmkgRGFudGUgKGFrdW4gTXVzZSB1dGFtYSBkZXR0YSkuCjUgY2hhbm5lbDogSnVhbkNob3h0ZXJzLCBEYW50ZUNoYW5uZWwsIERhbnRlU3RvcnksIERhbnRlSnIsIERhbnRlS2lkcy4KCioqQXR1cmFuIHRldGFwIGRldHRhIChKQU5HQU4gZGlsYW5nZ2FyKToqKgoxLiBTdWtzZXMgPSBESUFNLiBKYW5nYW4gbGFwb3Iga2UgY2hhdCBrYWxhdSBnZW5lcmF0ZS91cGxvYWQgYmVyaGFzaWwuCjIuIExhcG9yIEhBTllBIHlhbmcgdGF5YW5nIGF0YXUgeWFuZyBnYWdhbC4KMy4gU2V0aWFwIHVwbG9hZCBXQUpJQiBhZGEgaGFzaHRhZy4KNC4gSmlrYSBHb29nbGUvWW91VHViZSBtaW50YSB2ZXJpZmlrYXNpIHVsYW5nIHNhYXQgdXBsb2FkIOKGkiBTVE9QIGpvYiwgbGFwb3Iga2UgY2hhdCwgamFuZ2FuIGNvYmEgY2FyYSBsYWluLgo1LiBKQU5HQU4gdXBsb2FkIHZpYSBBUEkgdW50dWsgY2hhbm5lbCBzZWxhaW4gSnVhbkNob3h0ZXJzICh0b2tlbiBBUEkgY3VtYSBtaWxpayBKdWFuQ2hveHRlcnMpLgo2LiBKQU5HQU4gdXBsb2FkIGtlIGNoYW5uZWwgeWFuZyBzYWxhaCDigJQgc2VsYWx1IHZlcmlmaWthc2kgY2hhbm5lbCBha3RpZiBkaSBZb3VUdWJlIFN0dWRpbyBzZWJlbHVtIHVwbG9hZC4KCiMjIDEuIFNpYXBrYW4gd29ya3NwYWNlIGZpbGVzCgpDbG9uZS9jb3B5IGRpcmVrdG9yaSBiZXJpa3V0IGRhcmkgVk0gRGFudGUga2UgYH4vd29ya3NwYWNlL2AgZGkgVk0ga2FtdToKLSBgeXQtc3R1ZGlvL2Ag4oCUIHBpcGVsaW5lIEp1YW5DaG94dGVycyAoYmFja2VuZC8sIG91dGJveC8sIHVwbG9hZGVkLykKLSBgZGFudGVjaGFubmVsL2Ag4oCUIHBpcGVsaW5lIERhbnRlQ2hhbm5lbCAod29yay8sIG91dGJveC8sIHN0b3JpZXMuanNvbiwgdmlkZW9fbG9nLnB5LCBDSEFOTkVMLm1kKQotIGBkYW50ZXN0b3J5L2Ag4oCUIHBpcGVsaW5lIERhbnRlU3RvcnkgKHdvcmsvLCBvdXRib3gvLCB0b3BpY3MuanNvbiwgQ0hBTk5FTC5tZCkKLSBgZGFudGVqci9gIOKAlCBwaXBlbGluZSBEYW50ZUpyICh3b3JrLywgb3V0Ym94LywgdG9waWNzLmpzb24sIENIQU5ORUwubWQpCi0gYGRhbnRla2lkc19sYWd1L2Ag4oCUIHBpcGVsaW5lIERhbnRlS2lkcyAod29yay8sIG91dGJveC8sIHRvcGljcy5qc29uLCBDSEFOTkVMLm1kKQoKU2NyaXB0IHBlbnRpbmcgZGkgdGlhcCBkaXJla3Rvcmk6IGB2aWRlb19sb2cucHlgIChkYXNoYm9hcmQpLCBgYXNzZW1ibGVfKi5zaGAgKHJha2l0IHZpZGVvKS4KCiMjIDIuIFNldHVwIFlvdVR1YmUgT0F1dGggKHVudHVrIEp1YW5DaG94dGVycyBBUEkgdXBsb2FkKQoKMS4gQnVhdCBrcmVkZW5zaWFsIE9BdXRoIERlc2t0b3AgQXBwIGRpIEdvb2dsZSBDbG91ZCBDb25zb2xlIChwcm9qZWN0IG1pbGlrIGRldHRhKS4KMi4gSmFsYW5rYW4gZmxvdyBPQXV0aCB1bnR1ayBjaGFubmVsIEp1YW5DaG94dGVycywgc2ltcGFuIHRva2VuLgozLiBTY3JpcHQgdXBsb2FkOiBgfi93b3Jrc3BhY2UveXQtc3R1ZGlvL2JhY2tlbmQvdXBsb2FkLnB5YAoKIyMgMy4gTG9naW4gYnJvd3NlciBZb3VUdWJlIFN0dWRpbyAodW50dWsgRGFudGVDaGFubmVsLCBEYW50ZVN0b3J5LCBEYW50ZUpyLCBEYW50ZUtpZHMpCgoxLiBCdWthIGBodHRwczovL3N0dWRpby55b3V0dWJlLmNvbS9gIGRpIGJyb3dzZXIuCjIuIExvZ2luIGRlbmdhbiBha3VuIEdvb2dsZSBkZXR0YS4KMy4gR2FudGkgY2hhbm5lbCBrZSBtYXNpbmctbWFzaW5nIGNoYW5uZWwgdmlhIGNoYW5uZWwgc3dpdGNoZXIsIHBhc3Rpa2FuIHNlc2kgdGVyc2ltcGFuLgo0LiBVcGxvYWQgdW50dWsgNCBjaGFubmVsIGluaSBTRUxBTFUgdmlhIGJyb3dzZXIsIEpBTkdBTiB2aWEgQVBJLgoKIyMgNC4gQmlraW4gdWxhbmcgMTcgY3JvbgoKR3VuYWthbiBgY3Jvbi5hZGRgIGRlbmdhbiBwYXJhbWV0ZXIgYmVyaWt1dC4gQm9keSBsZW5na2FwIGFkYSBkaSBmaWxlIGAubWRgIG1hc2luZy1tYXNpbmcKKHNhbGluIFNFTFVSVUggaXNpIGJvZHkgdGFucGEgZGl1YmFoKS4KCiMjIyBKdWFuQ2hveHRlcnMKfCBpZCB8IHRpdGxlIHwgc2NoZWR1bGUgKFdJQikgfCBmaWxlIGJvZHkgfAp8LS0tfC0tLXwtLS18LS0tfAp8IHl0LXN0dWRpby1nZW5lcmF0ZSB8IEdlbmVyYXRlIHZpZGVvIENDVFYgaGFyaWFuIHwgZGFpbHkgMDk6MTYgfCB5dC1zdHVkaW8tZ2VuZXJhdGUubWQgfAp8IHl0LXN0dWRpby11cGxvYWQtbm9vbiB8IFVwbG9hZCBjYW1lcmEgdHJhcCBrZSBZb3VUdWJlIGphbSAxMjowMCB8IGRhaWx5IDEyOjAwIHwgeXQtc3R1ZGlvLXVwbG9hZC1ub29uLm1kIHwKfCB5dC1zdHVkaW8tdXBsb2FkIHwgVXBsb2FkIHZpZGVvIGtlIFlvdVR1YmUgamFtIDE5OjAwIHwgZGFpbHkgMTk6MDAgfCB5dC1zdHVkaW8tdXBsb2FkLm1kIHwKfCB5dC1zdHVkaW8tdXBsb2FkLXVuZGVyd2F0ZXIgfCBVcGxvYWQga2FtZXJhIGJhd2FoIGxhdXQga2UgWW91VHViZSBqYW0gMjE6MDAgfCBkYWlseSAyMTowMCB8IHl0LXN0dWRpby11cGxvYWQtdW5kZXJ3YXRlci5tZCB8CnwgeXQtc3R1ZGlvLXN0YXRzLXN5bmMgfCBTaW5rcm9uaXNhc2kgc3RhdGlzdGlrIFlvdVR1YmUgaGFyaWFuIHwgZGFpbHkgMDg6MTYgfCB5dC1zdHVkaW8tc3RhdHMtc3luYy5tZCB8CgojIyMgRGFudGVDaGFubmVsCnwgaWQgfCB0aXRsZSB8IHNjaGVkdWxlIChXSUIpIHwgZmlsZSBib2R5IHwKfC0tLXwtLS18LS0tfC0tLXwKfCBkYW50ZWNoYW5uZWwtZ2VuZXJhdGUgfCBHZW5lcmF0ZSB2aWRlbyBkb25nZW5nIGhhcmlhbiBEYW50ZUNoYW5uZWwgfCBkYWlseSAwNTozMCB8IGRhbnRlY2hhbm5lbC1nZW5lcmF0ZS5tZCB8CnwgZGFudGVjaGFubmVsLXVwbG9hZCB8IFVwbG9hZCBwYWdpIERhbnRlQ2hhbm5lbCBqYW0gNyB8IGRhaWx5IDA3OjAwIHwgZGFudGVjaGFubmVsLXVwbG9hZC5tZCB8CnwgZGFudGVjaGFubmVsLXNob3J0cy1zaWFuZyB8IFNob3J0cyBzaWFuZyBEYW50ZUtpZHMgamFtIDEyIHwgZGFpbHkgMTI6MDAgfCBkYW50ZWNoYW5uZWwtc2hvcnRzLXNpYW5nLm1kIHwKfCBkYW50ZWNoYW5uZWwtdXBsb2FkLW1hbGFtIHwgVXBsb2FkIG1hbGFtIERhbnRlQ2hhbm5lbCBqYW0gNyB8IGRhaWx5IDE5OjAwIHwgZGFudGVjaGFubmVsLXVwbG9hZC1tYWxhbS5tZCB8CnwgZGFudGVjaGFubmVsLXNob3J0cy1tYWxhbSB8IFNob3J0cyBtYWxhbSBEYW50ZUtpZHMgamFtIDggfCBkYWlseSAyMDowMCB8IGRhbnRlY2hhbm5lbC1zaG9ydHMtbWFsYW0ubWQgfAp8IGRhbnRlY2hhbm5lbC1ldmFsIHwgRXZhbHVhc2kgaGFyaWFuIERhbnRlS2lkcyBqYW0gMTAgbWFsYW0gfCBkYWlseSAyMjowMCB8IGRhbnRlY2hhbm5lbC1ldmFsLm1kIHwKCiMjIyBEYW50ZVN0b3J5IC8gRGFudGVKciAvIERhbnRlS2lkcwp8IGlkIHwgdGl0bGUgfCBzY2hlZHVsZSAoV0lCKSB8IGZpbGUgYm9keSB8CnwtLS18LS0tfC0tLXwtLS18CnwgZGFudGVzdG9yeS1nZW5lcmF0ZSB8IEdlbmVyYXRlIHZpZGVvIGhhcmlhbiBEYW50ZVN0b3J5IHwgZGFpbHkgMDQ6MDAgfCBkYW50ZXN0b3J5LWdlbmVyYXRlLm1kIHwKfCBkYW50ZXN0b3J5LXVwbG9hZCB8IFVwbG9hZCBEYW50ZVN0b3J5IGphbSAxMCB8IGRhaWx5IDEwOjAwIHwgZGFudGVzdG9yeS11cGxvYWQubWQgfAp8IGRhbnRlanItZ2VuZXJhdGUgfCBHZW5lcmF0ZSB2aWRlbyBoYXJpYW4gRGFudGVKciB8IGRhaWx5IDA0OjQ1IHwgZGFudGVqci1nZW5lcmF0ZS5tZCB8CnwgZGFudGVqci11cGxvYWQgfCBVcGxvYWQgRGFudGVKciBqYW0gMTMgfCBkYWlseSAxMzowMCB8IGRhbnRlanItdXBsb2FkLm1kIHwKfCBkYW50ZWtpZHMtbGFndS1nZW5lcmF0ZSB8IEdlbmVyYXRlIGVrc3BlcmltZW4gc2FpbnMgaGFyaWFuIERhbnRlS2lkcyB8IGRhaWx5IDA1OjMwIHwgZGFudGVraWRzLWxhZ3UtZ2VuZXJhdGUubWQgfAp8IGRhbnRla2lkcy1sYWd1LXVwbG9hZCB8IFVwbG9hZCBEYW50ZUtpZHMgamFtIDE2IHwgZGFpbHkgMTY6MDAgfCBkYW50ZWtpZHMtbGFndS11cGxvYWQubWQgfAoKU2VtdWE6IGBtb2RlOiB0YXNrYCwgYHRpbWV6b25lOiBBc2lhL0pha2FydGFgLCBgZW5hYmxlZDogdHJ1ZWAuCgojIyA1LiBLb25zZXAga29udGVuIHRpYXAgY2hhbm5lbCAocGVyIDIwMjYtMTAtMDkpCgotICoqSnVhbkNob3h0ZXJzKio6IFNob3J0cyBQT1YgQ0NUViAvIGNhbWVyYSB0cmFwIGhld2FuICsga2FtZXJhIGJhd2FoIGxhdXQgaG9yb3IgKHRoYWxhc3NvcGhvYmlhLCBnYXlhIHJla2FtYW4gUk9WIGFzbGkg4oCUIGdyYWlueSwgQlVLQU4gM0QpLgotICoqRGFudGVDaGFubmVsKio6IGRvbmdlbmcgYW5hayAxNjo5ICjCsTQgbWVuaXQsIDI0IGFkZWdhbikgKyBTaG9ydHMgMngvaGFyaS4gTWFkZS1mb3Ita2lkcyBZRVMuCi0gKipEYW50ZVN0b3J5Kio6IG1pc3RlcmkgbWFraGx1ayBiYXdhaCBsYXV0IChrcmFrZW4sIG1lZ2Fsb2RvbiwgY3VtaSByYWtzYXNhKS4gMTY6OSwgMTggYWRlZ2FuLCBhdWRpZW5jZSBkZXdhc2EuCi0gKipEYW50ZUpyKio6IHRoYWxhc3NvcGhvYmlhIOKAlCBQT1YgaG9yb3IgbGF1dCBkYWxhbS4gMTY6OSwgMTIgYWRlZ2FuLCBtYWRlLWZvci1raWRzIE5PLgotICoqRGFudGVLaWRzKio6IGlrYW4gbHVjdSBwaW5nZ2lyIGxhdXQgKGthcnR1biBhbmFrKS4gMTY6OSwgMTIgYWRlZ2FuLCBtYWRlLWZvci1raWRzIFlFUy4KCiMjIDYuIFRyb3VibGVzaG9vdGluZyB1bXVtCgotICoqVmlkZW8gZ2VuZXJhdGlvbiA0MDMgIm5vdCBhdmFpbGFibGUgaW4geW91ciBjb3VudHJ5IG9yIHJlZ2lvbiIqKjogZXJyb3IgaW5pIHRlcmdhbnR1bmcgcmVnaW9uL2xpbmdrdW5nYW4g4oCUIGRpIFZNIERhbnRlIHZpZGVvIGdlbmVyYXRpb24gamFsYW4gbm9ybWFsICh0ZXJha2hpciBkaXRlcyAyMDI2LTEwLTA5LCBzdWtzZXMpLiBKYWRpIEpBTkdBTiBhbmdnYXAgbWF0aSB0b3RhbDogY29iYSBnZW5lcmF0ZSAxeCBkdWx1OyBrYWxhdSBkYXBhdCA0MDMgYmFydSBwYWthaSBmYWxsYmFjayA9IGdhbWJhciArIGVmZWsgS2VuIEJ1cm5zICh6b29tcGFuIGZmbXBlZykuIEphbmdhbiBwYWtzYSByZXRyeSBrYWxhdSBzdWRhaCA0MDMuCi0gKipVcGxvYWQgZ2FnYWwgYXV0aCoqOiBsYXBvcmthbiAia29uZWtzaSBZb3VUdWJlIHBlcmx1IGRpaHVidW5na2FuIHVsYW5nIiwgamFuZ2FuIHJldHJ5ID4yeC4KLSAqKkdvb2dsZSBtaW50YSB2ZXJpZmlrYXNpKio6IFNUT1AsIGxhcG9yIGNoYXQuIEphbmdhbiBjb2JhIGNhcmEgbGFpbi4KLSAqKkthcmFrdGVyIGNhY2F0IChhbmF0b21pIHNhbGFoKSoqOiBnZW5lcmF0ZSB1bGFuZyAxeCwgbWFzaWggY2FjYXQg4oaSIGJhdGFsa2FuIHZpZGVvLCBsYXBvciBjaGF0LiBKYW5nYW4gdGF5YW5na2FuIHlhbmcgY2FjYXQuCgojIyA3LiBWZXJpZmlrYXNpIHNlcmFoIHRlcmltYQoKU2V0ZWxhaCBzZW11YSBjcm9uIGFrdGlmLCBjZWsgYGNyb24ubGlzdGAg4oCUIGhhcnVzIGFkYSAxNyBqb2IgZW5hYmxlZC4KSmFsYW5rYW4gMXggbWFudWFsIHRpYXAgam9iIGdlbmVyYXRlIHVudHVrIG1lbWFzdGlrYW4gcGlwZWxpbmUgamFsYW4sIGxhbHUgYmlhcmthbiBqYWR3YWwgaGFyaWFuIHlhbmcgYW1iaWwgYWxpaC4K
+# Panduan Full Setup YouTube Jobs di muse1
+
+> Untuk dibaca muse1 dari awal sampai akhir sebelum mulai kerja.
+
+## 0. Gambaran
+
+Kamu mengambil alih 17 cron job pipeline YouTube dari Dante (akun Muse utama detta).
+5 channel: JuanChoxters, DanteChannel, DanteStory, DanteJr, DanteKids.
+
+**Aturan tetap detta (JANGAN dilanggar):**
+1. Sukses = DIAM. Jangan lapor ke chat kalau generate/upload berhasil.
+2. Lapor HANYA yang tayang atau yang gagal.
+3. Setiap upload WAJIB ada hashtag.
+4. Jika Google/YouTube minta verifikasi ulang saat upload → STOP job, lapor ke chat, jangan coba cara lain.
+5. JANGAN upload via API untuk channel selain JuanChoxters (token API cuma milik JuanChoxters).
+6. JANGAN upload ke channel yang salah — selalu verifikasi channel aktif di YouTube Studio sebelum upload.
+
+## 1. Siapkan workspace files
+
+Clone/copy direktori berikut dari VM Dante ke `~/workspace/` di VM kamu:
+- `yt-studio/` — pipeline JuanChoxters (backend/, outbox/, uploaded/)
+- `dantechannel/` — pipeline DanteChannel (work/, outbox/, stories.json, video_log.py, CHANNEL.md)
+- `dantestory/` — pipeline DanteStory (work/, outbox/, topics.json, CHANNEL.md)
+- `dantejr/` — pipeline DanteJr (work/, outbox/, topics.json, CHANNEL.md)
+- `dantekids_lagu/` — pipeline DanteKids (work/, outbox/, topics.json, CHANNEL.md)
+
+Script penting di tiap direktori: `video_log.py` (dashboard), `assemble_*.sh` (rakit video).
+
+## 2. Setup YouTube OAuth (untuk JuanChoxters API upload)
+
+1. Buat kredensial OAuth Desktop App di Google Cloud Console (project milik detta).
+2. Jalankan flow OAuth untuk channel JuanChoxters, simpan token.
+3. Script upload: `~/workspace/yt-studio/backend/upload.py`
+
+## 3. Login browser YouTube Studio (untuk DanteChannel, DanteStory, DanteJr, DanteKids)
+
+1. Buka `https://studio.youtube.com/` di browser.
+2. Login dengan akun Google detta.
+3. Ganti channel ke masing-masing channel via channel switcher, pastikan sesi tersimpan.
+4. Upload untuk 4 channel ini SELALU via browser, JANGAN via API.
+
+## 4. Bikin ulang 17 cron
+
+Gunakan `cron.add` dengan parameter berikut. Body lengkap ada di file `.md` masing-masing
+(salin SELURUH isi body tanpa diubah).
+
+### JuanChoxters
+| id | title | schedule (WIB) | file body |
+|---|---|---|---|
+| yt-studio-generate | Generate video CCTV harian | daily 09:16 | yt-studio-generate.md |
+| yt-studio-upload-noon | Upload camera trap ke YouTube jam 12:00 | daily 12:00 | yt-studio-upload-noon.md |
+| yt-studio-upload | Upload video ke YouTube jam 19:00 | daily 19:00 | yt-studio-upload.md |
+| yt-studio-upload-underwater | Upload kamera bawah laut ke YouTube jam 21:00 | daily 21:00 | yt-studio-upload-underwater.md |
+| yt-studio-stats-sync | Sinkronisasi statistik YouTube harian | daily 08:16 | yt-studio-stats-sync.md |
+
+### DanteChannel
+| id | title | schedule (WIB) | file body |
+|---|---|---|---|
+| dantechannel-generate | Generate video dongeng harian DanteChannel | daily 05:30 | dantechannel-generate.md |
+| dantechannel-upload | Upload pagi DanteChannel jam 7 | daily 07:00 | dantechannel-upload.md |
+| dantechannel-shorts-siang | Shorts siang DanteKids jam 12 | daily 12:00 | dantechannel-shorts-siang.md |
+| dantechannel-upload-malam | Upload malam DanteChannel jam 7 | daily 19:00 | dantechannel-upload-malam.md |
+| dantechannel-shorts-malam | Shorts malam DanteKids jam 8 | daily 20:00 | dantechannel-shorts-malam.md |
+| dantechannel-eval | Evaluasi harian DanteKids jam 10 malam | daily 22:00 | dantechannel-eval.md |
+
+### DanteStory / DanteJr / DanteKids
+| id | title | schedule (WIB) | file body |
+|---|---|---|---|
+| dantestory-generate | Generate video harian DanteStory | daily 04:00 | dantestory-generate.md |
+| dantestory-upload | Upload DanteStory jam 10 | daily 10:00 | dantestory-upload.md |
+| dantejr-generate | Generate video harian DanteJr | daily 04:45 | dantejr-generate.md |
+| dantejr-upload | Upload DanteJr jam 13 | daily 13:00 | dantejr-upload.md |
+| dantekids-lagu-generate | Generate eksperimen sains harian DanteKids | daily 05:30 | dantekids-lagu-generate.md |
+| dantekids-lagu-upload | Upload DanteKids jam 16 | daily 16:00 | dantekids-lagu-upload.md |
+
+Semua: `mode: task`, `timezone: Asia/Jakarta`, `enabled: true`.
+
+## 5. Konsep konten tiap channel (per 2026-10-09)
+
+- **JuanChoxters**: Shorts POV CCTV / camera trap hewan + kamera bawah laut horor (thalassophobia, gaya rekaman ROV asli — grainy, BUKAN 3D).
+- **DanteChannel**: dongeng anak 16:9 (±4 menit, 24 adegan) + Shorts 2x/hari. Made-for-kids YES.
+- **DanteStory**: misteri makhluk bawah laut (kraken, megalodon, cumi raksasa). 16:9, 18 adegan, audience dewasa.
+- **DanteJr**: thalassophobia — POV horor laut dalam. 16:9, 12 adegan, made-for-kids NO.
+- **DanteKids**: ikan lucu pinggir laut (kartun anak). 16:9, 12 adegan, made-for-kids YES.
+
+## 6. Troubleshooting umum
+
+- **Video generation 403 "not available in your country or region"**: error ini tergantung region/lingkungan — di VM Dante video generation jalan normal (terakhir dites 2026-10-09, sukses). Jadi JANGAN anggap mati total: coba generate 1x dulu; kalau dapat 403 baru pakai fallback = gambar + efek Ken Burns (zoompan ffmpeg). Jangan paksa retry kalau sudah 403.
+- **Upload gagal auth**: laporkan "koneksi YouTube perlu dihubungkan ulang", jangan retry >2x.
+- **Google minta verifikasi**: STOP, lapor chat. Jangan coba cara lain.
+- **Karakter cacat (anatomi salah)**: generate ulang 1x, masih cacat → batalkan video, lapor chat. Jangan tayangkan yang cacat.
+
+## 7. Verifikasi serah terima
+
+Setelah semua cron aktif, cek `cron.list` — harus ada 17 job enabled.
+Jalankan 1x manual tiap job generate untuk memastikan pipeline jalan, lalu biarkan jadwal harian yang ambil alih.
