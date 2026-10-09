@@ -45,3 +45,15 @@ Tanggal handoff: 2026-10-09.
 - Sukses = diam, lapor hanya yang tayang/gagal
 - Hashtag wajib di setiap upload
 - Stop + lapor jika Google minta verifikasi ulang
+
+## Status (2026-10-09)
+Semua 17 cron di akun Dante sudah di-DISABLE. Tidak akan dobel jalan.
+
+## Yang BISA ditransfer ✅
+- File definisi 17 job (folder ini)
+- File workspace: `~/workspace/yt-studio/`, `~/workspace/dantechannel/`, `~/workspace/dantestory/`, `~/workspace/dantejr/`, `~/workspace/dantekids_lagu/` — clone dari VM Dante atau minta detta copy
+
+## Yang TIDAK BISA ditransfer ❌ (wajib setup ulang di muse1)
+- Token OAuth YouTube (JuanChoxters) — hubungkan ulang
+- Sesi login browser YouTube Studio — login ulang manual
+- Koneksi Threads/Gmail milik Dante — bukan bagian job ini
